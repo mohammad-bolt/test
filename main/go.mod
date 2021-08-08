@@ -1,4 +1,4 @@
-module github.com/mohammad-bolt/test/main/v0.1.1
+module github.com/mohammad-bolt/test/main/v0.1.5
 
 go 1.16
 
